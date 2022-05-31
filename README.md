@@ -4,7 +4,7 @@
 
 Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 Yes we can ! This model uses a set of clinical data about a patient to predict whether or not they have cardiac disease.
-Main Code : https://github.com/piyush033/Heart-Disease-Classification-Model/blob/main/Heart_Disease_Project.ipynb
+* Main Code : https://github.com/piyush033/Heart-Disease-Classification-Model/blob/main/Heart_Disease_Project.ipynb
 
 ## Table of Content
 
