@@ -75,9 +75,11 @@ the more blood movement the better (no clots)
  
  
  
-## MODEL VISUALIZATIONS 
+## MODEL VISUALIZATIONS
+
 Data :
-##Problem Statement 
+
+## Problem Statement 
 
 Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 Yes we can ! This model uses a set of clinical data about a patient to predict whether or not they have cardiac disease.
@@ -151,6 +153,7 @@ target - have disease or not (1=yes, 0=no) (= the predicted attribute)
 ## MODEL VISUALIZATIONS 
 
 Data :
+
 ![1](https://user-images.githubusercontent.com/100412728/171180935-857fe861-9408-4090-b84b-a8a24df8c008.png)
 
 ![2](https://user-images.githubusercontent.com/100412728/171181023-7098940b-ca37-4497-b963-110b28a03912.png)
