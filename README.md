@@ -1,6 +1,6 @@
 # Heart-Disease-Classification-Model
 
-##Problem Statement 
+## Problem Statement 
 
 Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 Yes we can ! This model uses a set of clinical data about a patient to predict whether or not they have cardiac disease.
@@ -12,21 +12,22 @@ Main Code : https://github.com/piyush033/Heart-Disease-Classification-Model/blob
 [Heart Disease Data Dictionary]
 [Model Visualizations]
 
-##Datasets Used 
+## Datasets Used 
 
 The original data came from the Cleveland data from UCI Machine Learning Repository.
 https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 There is also a version of it available on Kaggle: 
 https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
-##Frameworks used
+
+## Frameworks used
 Numpy
 Pandas
 Matplotlib
 Seaborn
 Sci-Kit learn
-##Heart Disease Data Dictionary
 
+## Heart Disease Data Dictionary
 A data dictionary describes the data you're dealing with. Not all datasets come with them so this is where you may have to do your research or ask a **subject matter expert** (someone who knows about the data) for more.
 The following are the features we'll use to predict our target variable (heart disease or no heart disease).
 age - age in years
@@ -70,7 +71,7 @@ target - have disease or not (1=yes, 0=no) (= the predicted attribute)
  
  
  
-##MODEL VISUALIZATIONS 
+## MODEL VISUALIZATIONS 
 Data :
 
 
