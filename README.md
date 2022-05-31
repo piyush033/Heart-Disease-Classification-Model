@@ -152,20 +152,33 @@ target - have disease or not (1=yes, 0=no) (= the predicted attribute)
 
 Data :
 ![1](https://user-images.githubusercontent.com/100412728/171180935-857fe861-9408-4090-b84b-a8a24df8c008.png)
-Comp![2](https://user-images.githubusercontent.com/100412728/171181023-7098940b-ca37-4497-b963-110b28a03912.png)
+
+![2](https://user-images.githubusercontent.com/100412728/171181023-7098940b-ca37-4497-b963-110b28a03912.png)
+
 ![3](https://user-images.githubusercontent.com/100412728/171181083-3c44869c-2cba-43c8-b54b-f100ad63bdbe.png)
+
 ![4](https://user-images.githubusercontent.com/100412728/171181098-59ef13db-9d51-49c1-bf16-9db7c396e838.png)
+
 ![5](https://user-images.githubusercontent.com/100412728/171181116-f7b0d70e-6b09-4336-a96a-f56fac30dde2.png)
-Comparison between cp(Chest Pain) and Target :
+
 ![6](https://user-images.githubusercontent.com/100412728/171181173-59f53952-2b46-481a-a307-92472f19eb16.png)
+
 ![7](https://user-images.githubusercontent.com/100412728/171181231-dadeb36d-8baf-48ce-94f6-73b2d80ba0ea.png)
+
 ![8](https://user-images.githubusercontent.com/100412728/171181594-3f03c4f8-0a89-4701-aad5-de801f8b46c7.png)
+
 ![correlation](https://user-images.githubusercontent.com/100412728/171181659-cc6dea8b-6b72-4633-be57-a9260697b89a.png)
+
 ![acc](https://user-images.githubusercontent.com/100412728/171181785-2c10a410-a7ac-4e11-b5b2-69786356efc7.png)
+
 ![abc](https://user-images.githubusercontent.com/100412728/171181236-9da457bb-1dda-4d56-8252-4789f862d31b.png)
+
 ![false positive](https://user-images.githubusercontent.com/100412728/171181949-92a08880-b2ab-4205-a822-e1713f5f4162.png)
+
 ![pred](https://user-images.githubusercontent.com/100412728/171182098-5fa27415-1a65-4de4-8af4-75a466abb4a9.png)
+
 ![cross-val](https://user-images.githubusercontent.com/100412728/171181242-78373b8f-f79f-4ea6-af59-f289daa7ca2c.png)
+
 ![feature](https://user-images.githubusercontent.com/100412728/171182259-61d49b48-e226-4604-97a1-04612e02b6f7.png)
 
 
